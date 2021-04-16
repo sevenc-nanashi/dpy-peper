@@ -19,6 +19,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-        "discord.py > 1.0.0 < 2.0.0",
+        "discord.py>1.0.0<2.0.0",
     ],
 )
