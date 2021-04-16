@@ -2,7 +2,7 @@
 
 # peper
 
-peper = <small>d</small>**p**<small>y-voic</small>**e**<small>-hel</small>**per**
+peper = <small>d</small>**p**<small>y-voic</small>**e**<small>-hel</small>**per**  
 discord.pyのon_voice_state_updateのラッパー。
 
 # 使い方
@@ -74,7 +74,7 @@ bot.run("Th1sIsN0tT0k3n.B3cause.1fiShowB0tWillG3tH4cked")
 
 ## 追加イベント
 
-`(event)_me`: クライアントが発火させたとき。（member引数は省略されます。）
-`(event)_bot`: Botが発火させたとき。
-`(event)_other_bot`: クライアント以外のBotが発火させたとき。
+`(event)_me`: クライアントが発火させたとき。（member引数は省略されます。）  
+`(event)_bot`: Botが発火させたとき。  
+`(event)_other_bot`: クライアント以外のBotが発火させたとき。  
 `(event)_user`: ユーザーが発火させたとき。

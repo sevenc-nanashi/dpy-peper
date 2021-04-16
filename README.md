@@ -2,7 +2,7 @@
 
 # peper
 
-peper = <small>d</small>**p**<small>y-voic</small>**e**<small>-hel</small>**per**
+peper = <small>d</small>**p**<small>y-voic</small>**e**<small>-hel</small>**per**  
 A wrapper of discord.py's on_voice_state_update.
 
 # How to use
@@ -74,7 +74,7 @@ bot.run("Th1sIsN0tT0k3n.B3cause.1fiShowB0tWillG3tH4cked")
 
 ## Suffixes
 
-`(event)_me`: when client did. member argument will be ignored.
-`(event)_bot`: when bot did.
-`(event)_other_bot`: when bot did(without client).
+`(event)_me`: when client did. member argument will be ignored.  
+`(event)_bot`: when bot did.  
+`(event)_other_bot`: when bot did(without client).  
 `(event)_user`: when user did(not bot).
