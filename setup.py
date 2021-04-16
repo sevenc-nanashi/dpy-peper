@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dpy-peper",
-    version="1.0.0",
+    version="1.0.1",
     author="sevenc-nanashi",
     author_email="sevenc-nanashi@sevenbot.jp",
     description="Helper of discord.py's on_voice_state_update",

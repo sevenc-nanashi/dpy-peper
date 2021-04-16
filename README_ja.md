@@ -1,5 +1,7 @@
 <p style="font-size: 2rem"><a href="https://github.com/sevenc-nanashi/dpy-peper/blob/main/README.md">English</a>/Japanese</p>
 
+[![PyPI - Version](https://img.shields.io/pypi/v/dpy-peper?style=flat-square)](https://pypi.org/project/dpy-peper) [![PyPI - Downloads](https://img.shields.io/badge/dynamic/json?style=flat-square&label=downloads&query=%24.total_downloads&url=https%3A%2F%2Fapi.pepy.tech%2Fapi%2Fprojects%2Fdpy-peper)](https://pepy.tech/project/dpy-peper/)
+
 # peper
 
 peper = <small>d</small>**p**<small>y-voic</small>**e**<small>-hel</small>**per**  
